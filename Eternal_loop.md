@@ -12,11 +12,9 @@
 
 ![Screenshot from 2021-05-30 18-59-12](https://user-images.githubusercontent.com/38219914/120129686-65120d80-c192-11eb-8594-37a5baafcba4.png)
 
-![Screenshot from 2021-05-30 19-00-17](https://user-images.githubusercontent.com/38219914/120129723-722efc80-c192-11eb-9716-81c8b72f9f85.png)
-
 ![Screenshot from 2021-05-30 20-41-02](https://user-images.githubusercontent.com/38219914/120136618-91cd2180-c1a0-11eb-912a-6cba46156996.png)
 
-<p>Depois de extrair 5 arquivos usando essa técnica me dei conta do pradrão númerico, com isso já podíamos começar um algoritmo pra automatizar.</p>
+<p>Depois de extrair 5 arquivos ficou claro o pradrão númerico, com isso já podíamos começar um algoritmo pra automatização.</p>
 
 <p>Normalmente eu faria em python, mas como estou em ambiente linux aproveitei para fazer em bash e tentar aprender alguma coisa já que vou utilizar muito durante minha vida usando o pinguim.</p>
 
