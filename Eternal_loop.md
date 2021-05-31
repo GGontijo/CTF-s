@@ -33,6 +33,7 @@
 <p>Depois de vários erros e correções, o código final e sua execução:</p>
 
 ![Screenshot from 2021-05-30 18-51-51](https://user-images.githubusercontent.com/38219914/120129048-4bbc9180-c191-11eb-856a-57782624044c.png)
+<p>NOTA: O meu "ls" é um alias de "ls -l".</p>
 
 ![Screenshot from 2021-05-30 19-04-10](https://user-images.githubusercontent.com/38219914/120129950-0731f580-c193-11eb-8025-9a5fad40baf0.png)
 
