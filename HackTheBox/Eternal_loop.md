@@ -4,9 +4,6 @@
 </p>
 <h3 align="center">Hack The Box | Dificuldade: Fácil</h3>
 
-<p>Eternal Loop foi um desafio simples, mas satisfatório.</p>
-<p>Gastei mais tempo tentando fazer coisas novas do que seguindo o path que imaginei que seria, tempo este que foi recompensado com as coisas novas que aprendi.</p>
-
 <p>Basicamente o desafio consiste em um arquivo .zip, e dentro deste arquivo possui centenas de outros arquivos cujo nome é a senha do arquivo anterior.
 </p>
 
@@ -16,7 +13,7 @@
 
 <p>Depois de extrair 5 arquivos ficou claro o pradrão númerico, com isso já podíamos começar um algoritmo pra automatização.</p>
 
-<p>Normalmente eu faria em python, mas como estou em ambiente linux aproveitei para fazer em bash e tentar aprender alguma coisa já que vou utilizar muito durante minha vida usando o pinguim.</p>
+<p>Normalmente eu faria em python, mas como estou em ambiente linux aproveitei para fazer em bash.</p>
 
 <h3 align="left">Bruteforce.sh</h3>
 
@@ -41,12 +38,6 @@
 
 ![Screenshot from 2021-05-30 18-54-46](https://user-images.githubusercontent.com/38219914/120129308-b8379080-c191-11eb-9cfb-163f6a1a9c09.png)
 
-<p>Show! o script funcionou.</p>
-
-![Screenshot from 2021-05-30 19-15-12](https://user-images.githubusercontent.com/38219914/120130654-b28f7a00-c194-11eb-8720-b5bae483cd2b.png)
-
-<p>Ok, mas agora qual a senha do x.zip final??</p>
-
 ![Screenshot from 2021-05-30 19-18-36](https://user-images.githubusercontent.com/38219914/120130974-62fd7e00-c195-11eb-9697-96a39298ca16.png)
 
 <p>Listando o conteúdo não consigo pensar em nada, tentei alguns hash's do nome do arquivo mas sem sucesso.</p>
@@ -59,15 +50,15 @@
 
 ![Screenshot from 2021-05-30 19-28-28](https://user-images.githubusercontent.com/38219914/120131552-a5738a80-c196-11eb-8a26-699799120180.png)
 
-<h3 align="left">DoNotTouch (PT-br: NãoMeRéla)</h3>
+<h3 align="left">DoNotTouch</h3>
 
-<p>Bom, arquivo final se trata de um banco de dados (sei lá do que, mas envolve música):</p>
+<p>Bom, arquivo final se trata de um banco de dados:</p>
 
 ![Screenshot from 2021-05-30 19-32-32](https://user-images.githubusercontent.com/38219914/120131788-16b33d80-c197-11eb-8a73-e67bc05609d0.png)
 
 ![Screenshot from 2021-05-30 19-34-06](https://user-images.githubusercontent.com/38219914/120131937-6b56b880-c197-11eb-82c7-bf3697930d22.png)
 
-<p>Como eu entendo muito pouco de SQL, resolvi procurar na mão. Depois de um tempinho usando o padrão de flag como filtro, encontrei a flag na tabela employees.</p>
+<p>Depois de um tempinho usando o padrão de flag como filtro, encontrei a flag na tabela employees.</p>
 
 ![Screenshot from 2021-05-30 19-39-50](https://user-images.githubusercontent.com/38219914/120132243-00f24800-c198-11eb-8fdd-c92f24acc02f.png)
 
