@@ -1,4 +1,4 @@
-<h1 align="center">Eternal Loop</h1>
+<h1 align="center">Photon Lockdown</h1>
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/31746234?s=200&v=4" alt="HackTheBox"/> 
 </p>
@@ -20,6 +20,6 @@
 
 <p> Feito isso, buscamos o formato da flag pelo sistema de arquivos e encontramos a flag: </p>
 
-`grep --include=*.{txt,conf,xml,php} -rnw '.' -e 'HTB' 2>/dev/null`
+`grep -r '.' -e 'HTB' 2>/dev/null`
 
 ![alt text](/resources/image5.png)
