@@ -60,7 +60,7 @@
 
 <p>Depois de um tempinho usando o padrão de flag como filtro, encontrei a flag na tabela employees.</p>
 
-![Screenshot from 2021-05-30 19-39-50](https://user-images.githubusercontent.com/38219914/120132243-00f24800-c198-11eb-8fdd-c92f24acc02f.png)
+![image](https://github.com/GGontijo/CTF-s/assets/38219914/ca8962a7-2bf5-45ef-be2c-edaacbb319a1)
 
 
 <h2 align="left">FLAG: HTB{f4k3_fl4g_f0r_t35t1ng}</h2>
