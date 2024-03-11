@@ -63,7 +63,7 @@
 ![Screenshot from 2021-05-30 19-39-50](https://user-images.githubusercontent.com/38219914/120132243-00f24800-c198-11eb-8fdd-c92f24acc02f.png)
 
 
-<h2 align="left">FLAG: HTB{z1p_and_unz1p_ma_bruddahs}</h2>
+<h2 align="left">FLAG: HTB{f4k3_fl4g_f0r_t35t1ng}</h2>
 
 
 
