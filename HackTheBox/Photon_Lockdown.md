@@ -20,6 +20,6 @@
 
 <p> Feito isso, buscamos o formato da flag pelo sistema de arquivos e encontramos a flag: </p>
 
-`grep --include=*.{txt,conf,xml,php} -rnw '.' -e 'HTB' 2>/dev/null`
+`grep -r '.' -e 'HTB' 2>/dev/null`
 
 ![alt text](/resources/image5.png)
