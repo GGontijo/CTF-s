@@ -63,8 +63,3 @@
 ![image](https://github.com/GGontijo/CTF-s/assets/38219914/ca8962a7-2bf5-45ef-be2c-edaacbb319a1)
 
 
-<h2 align="left">FLAG: HTB{f4k3_fl4g_f0r_t35t1ng}</h2>
-
-
-
-
