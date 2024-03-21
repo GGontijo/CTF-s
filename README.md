@@ -1,4 +1,3 @@
-![b4201d8310215781eab5facfb3103dac](https://github.com/GGontijo/CTF-s/assets/38219914/397cfbd6-6baa-4565-b266-c6cb1800a00f)
 <h1 align="center">Dicas e usos de ferramentas</h1>
 <h3 align="center">Técnicas, Vulnerabilidades e Ferramentas que usei para referências em desafios futuros</h3>
 
